@@ -1,3 +1,3 @@
-module gitee.com/bobsunjack/qxblib/http
+module github.com/bobsunjack/golib/http
 
 go 1.17
